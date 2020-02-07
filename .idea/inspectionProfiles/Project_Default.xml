@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="rgw" />
+            <item index="1" class="java.lang.String" itemvalue="Brlapi" />
+            <item index="2" class="java.lang.String" itemvalue="python-libtorrent" />
+            <item index="3" class="java.lang.String" itemvalue="team" />
+            <item index="4" class="java.lang.String" itemvalue="rados" />
+            <item index="5" class="java.lang.String" itemvalue="btrfsutil" />
+            <item index="6" class="java.lang.String" itemvalue="cephfs" />
+            <item index="7" class="java.lang.String" itemvalue="ceph-volume" />
+            <item index="8" class="java.lang.String" itemvalue="pwquality" />
+            <item index="9" class="java.lang.String" itemvalue="rbd" />
+            <item index="10" class="java.lang.String" itemvalue="isc" />
+            <item index="11" class="java.lang.String" itemvalue="cephfs-shell" />
+            <item index="12" class="java.lang.String" itemvalue="louis" />
+            <item index="13" class="java.lang.String" itemvalue="lensfun" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
