@@ -21,7 +21,7 @@ idna==2.8
 importlib-metadata==1.4.0
 isc==2.0
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 lensfun==0.3.95
 louis==3.12.0
 lxml==4.4.2
